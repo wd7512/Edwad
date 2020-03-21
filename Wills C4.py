@@ -283,10 +283,10 @@ def learning(gens,runs):
 
     return gens,wins
 
-
+'''
 gens = init_gens()
 for i in range(100):
     print('Gen '+str(i))
     gens,wins = learning(gens,1)
-    
+'''
 
