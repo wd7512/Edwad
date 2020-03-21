@@ -290,3 +290,4 @@ for i in range(100):
     gens,wins = learning(gens,1)
 '''
 
+run_human()
